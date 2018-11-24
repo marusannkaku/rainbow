@@ -1,4 +1,4 @@
-Rainbow  and the unicorn
+Rainbow  and the unicorn and the pony
 
 unicorn
 red
@@ -14,3 +14,4 @@ silver
 yellow
 
 unicorn
+pony
