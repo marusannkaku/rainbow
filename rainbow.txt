@@ -12,5 +12,5 @@ gold
 silver
 
 yellow
-
+indigo
 unicorn
